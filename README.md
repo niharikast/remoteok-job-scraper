@@ -2,15 +2,15 @@
 
 This project **automates the collection of remote Python, Django, Flask, ML, and AI jobs** from [RemoteOK](https://remoteok.com) and presents them in a **clean, interactive Streamlit dashboard**. Users can view job details, download results as CSV, visualize top companies and locations, and optionally receive email alerts.  
 
-Built with **Python**, **Pandas**, **Requests**, and **Streamlit**, this project demonstrates **backend workflows, REST API integration, data handling, and interactive dashboard creation**, making it ideal for showcasing Python backend and automation skills.
+Built with **Python**, **Pandas**, **Requests**, and **Streamlit**, this project demonstrates **backend workflows, data scraping, data handling, and interactive dashboard creation**, making it ideal for showcasing Python backend and automation skills.
 
 ## Project Goals
 
-- Automatically fetch remote jobs using REST APIs  
+- Automatically fetch remote jobs by **scraping RemoteOK website HTML**  
 - Process, filter, and store job data in CSV (simulating database operations)  
 - Build an interactive dashboard to visualize jobs by company and location  
 - Demonstrate backend development skills with data workflows and optional email alerts  
-- Showcase Python, data handling, and dashboard development for portfolio/mentorship  
+- Showcase Python, data handling, and dashboard development for portfolio/mentorship
 
 ## Tools & Technologies
 
