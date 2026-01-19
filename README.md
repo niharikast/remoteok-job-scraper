@@ -31,8 +31,6 @@ remoteok-job-scraper/
 ├── jobs_YYYY-MM-DD.csv     # Sample CSV outputs of fetched jobs  
 └── screenshots/            # Screenshots of dashboard and visualizations  
 
----
-
 ## Features
 
 1. **Automated Job Scraper**  
